@@ -9,4 +9,6 @@ Dashboard interaktif ini dibuat menggunakan Looker Studio untuk menganalisis per
 - **Regional Analysis:** Menganalisis performa pengiriman berdasarkan region dan *Ship Mode* (Standard, Second Class, First Class, Same Day).
 
 ## 🖼️ Tampilan Dashboard
-![Screenshot Dashboard](\Superstore_Dashboard 1.png)
+![Screenshot Dashboard](/Proyek%20Sales%20Superstore-Looker%20Studio/Superstore_Dashboard%201.png)
+
+![Screenshot Dashboard](/Proyek%20Sales%20Superstore-Looker%20Studio/Superstore_Dashboard%202.png)
